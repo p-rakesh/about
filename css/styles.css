@@ -1,0 +1,33 @@
+/* Add a black background color to the top navigation */
+
+
+
+
+.center a {
+
+  border-image-slice: 50px
+}
+h1 {
+  text-align: center;
+  color:#3500d3;
+  background-color: orange;
+  opacity: 0.8;
+ margin: auto;
+ padding-top: 5px;
+ border-color: red;
+ border-width: 5px;
+ border-style: all;
+}
+
+h3{
+  text-align: center
+}
+p{
+  text-align: center;
+}
+body{
+  background-color: lightblue;
+  margin:100px;
+  padding: 20px;
+  
+}
